@@ -1,3 +1,4 @@
+# single processor
 import time
 
 def basic_func(x):
